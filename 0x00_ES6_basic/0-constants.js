@@ -1,3 +1,4 @@
+// Use of const and let in JavaScript
 export function taskFirst() {
   const task = 'I prefer const when I can.';
   return task;
